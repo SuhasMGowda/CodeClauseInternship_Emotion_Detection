@@ -38,7 +38,7 @@ This project uses the FER-2013 dataset. Follow these steps to download and prepa
      ```
    - Use scripts available online to split `fer2013.csv` into training and validation datasets, organized in subdirectories for each emotion class.
 
-## Installation
+```
 
 ### Step 1: Clone the Repository
 
