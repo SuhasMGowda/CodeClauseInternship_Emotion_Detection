@@ -1,4 +1,4 @@
-# CodeClauseInternship_Emotion_Detection
+# Emotion_Detection
 
 ```markdown
 # Emotion Detection Using Convolutional Neural Networks
