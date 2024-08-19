@@ -1,8 +1,5 @@
 # Emotion_Detection
 
-```markdown
-# Emotion Detection Using Convolutional Neural Networks
-
 This project implements an emotion detection model using Convolutional Neural Networks (CNNs) with TensorFlow and Keras. The model is designed to classify facial expressions into different emotions like happiness, sadness, anger, and more.
 
 ## Overview
@@ -38,7 +35,6 @@ This project uses the FER-2013 dataset. Follow these steps to download and prepa
      ```
    - Use scripts available online to split `fer2013.csv` into training and validation datasets, organized in subdirectories for each emotion class.
 
-```
 
 ### Step 1: Clone the Repository
 
